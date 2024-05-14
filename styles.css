@@ -1,0 +1,22 @@
+  h1 {
+    background-color: bisque;
+    text-align: center;
+  }
+  
+  body {
+    background-color: bisque;
+  }
+
+  select {
+    display: block;
+    margin-bottom: 20px;
+    background-color:aquamarine;
+  }
+
+  input {
+     background-color: aquamarine;
+  }
+
+  form {
+    background-color: bisque;
+  }
